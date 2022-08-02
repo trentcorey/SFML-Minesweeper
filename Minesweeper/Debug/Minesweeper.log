@@ -1,0 +1,159 @@
+﻿  Minesweeper.cpp
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(67,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(67,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(79,86): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(79,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(92,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(92,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(107,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(107,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(122,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(122,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(143,43): warning C4018: '>': signed/unsigned mismatch
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(143,85): warning C4018: '<': signed/unsigned mismatch
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(144,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(144,90): warning C4018: '>': signed/unsigned mismatch
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(181,39): warning C4018: '>': signed/unsigned mismatch
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(181,81): warning C4018: '<': signed/unsigned mismatch
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(182,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(182,86): warning C4018: '>': signed/unsigned mismatch
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(220,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(220,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(224,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(224,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(231,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(231,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(233,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(233,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(239,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(239,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(241,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(241,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(243,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(243,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(249,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(249,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(253,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(253,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(258,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(258,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(263,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(263,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(268,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(268,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(273,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(273,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(278,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(278,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(283,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(283,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(288,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(288,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(293,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(293,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(361,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(368,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(374,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(383,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(388,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(395,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(401,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(410,151): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(410,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(415,149): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(415,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(420,150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(420,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(428,142): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(428,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(430,176): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(430,107): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(432,180): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(432,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(434,180): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19044\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(434,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Minesweeper.vcxproj -> C:\Users\19044\source\repos\Minesweeper\Debug\Minesweeper.exe
